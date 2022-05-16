@@ -1,0 +1,22 @@
+.page-dashboard .container {
+    max-width: 1100px;
+}
+.header-section {
+    display: block !important;
+}
+
+.logo-section {
+    display: block !important;
+}
+
+.bodynew {
+    background: #fff;
+}
+
+img {
+    max-width: 90%;
+}
+
+strong {
+    color: #fff !important;
+}
